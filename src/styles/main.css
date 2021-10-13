@@ -1,0 +1,19 @@
+
+.completed-task {
+  background-color: #1a69a4;
+  color: #fff;
+}
+
+
+.late-task {
+  background-color: #cf590c;
+  color: #fff;
+}
+
+.circle {
+  border-radius: 50%;
+  width: 18px;
+  height: 18px;
+  display: block;
+  margin-top: 10px;
+}
